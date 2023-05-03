@@ -16,5 +16,15 @@ Pushed the code the repository HTML_CSS_Git_Code_Refactor
 
 Hosted the index.html in GitHub Pages
 
+<<<<<<< HEAD
+## Links 
+
+URL to the GitHub repository: https://github.com/arundvp/HTML_CSS_Git_Code_Refactor
+
+URL to my deployed webpage: https://arundvp.github.io/HTML_CSS_Git_Code_Refactor/
+
+![Screenshot for the webpage](./assets/images/arundvp-github-page1.jpg)
+=======
+>>>>>>> 2cc8cc3c3a0070b95188baa1254982610de5927b
 -----
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
