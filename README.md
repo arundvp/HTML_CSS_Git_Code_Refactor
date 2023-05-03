@@ -23,5 +23,6 @@ URL to the GitHub repository: https://github.com/arundvp/HTML_CSS_Git_Code_Refac
 URL to my deployed webpage: https://arundvp.github.io/HTML_CSS_Git_Code_Refactor/
 
 ![Screenshot for the webpage](./assets/images/arundvp-github-page.jpg)
+
 -----
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
